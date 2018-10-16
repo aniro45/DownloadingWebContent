@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Downloading Web Content</string>
+    <string name="its_downloading_web_content_from_the_web_page_containg_html_sorce_via_url">its downloading web content from the web page containg html sorce via URL.</string>
+    <string name="all_the_work_is_in_background">all the work is in background.</string>
+</resources>
